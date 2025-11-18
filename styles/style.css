@@ -55,7 +55,7 @@
   font-size: 62px;
   line-height: 76px;
   font-weight: 500;
-  margin-top: auto;
+  margin-top: 0;
   max-width: 635px;
   padding-top: 128px;
 }
@@ -63,7 +63,7 @@
 .header__description {
   font-size: 20px;
   line-height: 30px;
-  margin-top: auto;
+  margin-top: 0;
   max-width: 515px;
   padding-top: 32px;
 }
@@ -120,6 +120,7 @@
 .staff__cards {
   max-width: 760px;
   margin: auto;
+  margin-top: 0;
   margin-bottom: 68px;
   display: flex;
   flex-wrap: wrap;
