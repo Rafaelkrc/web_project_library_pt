@@ -250,8 +250,9 @@
 }
 
 .person_name_feynman {
-  margin-top: -30px;
+  top: 0;
   right: 319px;
+  margin-top: -30px;
 }
 
 .person_name_burbidge {
