@@ -347,10 +347,10 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #ffffff;
+  padding: 60px 80px 60px 80px;
 }
 
 .footer__columns {
-  padding: 60px 80px 60px 80px;
   font-size: 16px;
   display: flex;
   flex-direction: row;
@@ -372,6 +372,7 @@
 
 .footer__column-heading {
   padding-bottom: 20px;
+  margin: 0;
 }
 
 .footer__list {
@@ -397,6 +398,5 @@
 }
 
 .footer__copyright {
-  margin-top: 100px;
-  padding-left: 80px;
+  margin: 100px 0 0 0;
 }
